@@ -24,4 +24,5 @@ I have also included zlocal_a.py as an example of what I use on a Raspberry pi t
 5. zm_prox.py
 6. zm_px-blinkt_beat.py
 
-These are used for an RPC style approach to the client interface. The reply server is the same as before.
+zprox is used for an RPC style approach to the client interface as shown in the example zm_px-blinkt.py.
+The reply server is the same as before.

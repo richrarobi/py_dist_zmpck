@@ -12,8 +12,11 @@ Consists of four main components:
 Requires python install for pyzmq messagepack, etc details to follow....
 
 sudo apt-get install python3-zmq
+
 sudo pip3 install pyzmq
+
 sudo pip3 install msgpack
+
 
 The reply server is run on each system (Linux based) that is used to run routines. On these systems, a local library zlocal.py is also required. Note that if this is modified, the reply program will atttempt to reload it.
 
